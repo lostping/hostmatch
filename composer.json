@@ -1,5 +1,5 @@
 {
-    "name": "roundcube/hostmatch",
+    "name": "lostping/hostmatch",
     "type": "roundcube-plugin",
     "description": "Host match on login page for use with multiple predefined default hosts.",
     "keywords": ["login", "match", "host"],
