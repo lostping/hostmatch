@@ -1,0 +1,25 @@
+{
+    "name": "roundcube/hostmatch",
+    "type": "roundcube-plugin",
+    "description": "Host match on login page for use with multiple predefined default hosts.",
+    "keywords": ["login", "match", "host"],
+    "homepage": "https://www.lostping.de",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Lostping",
+            "email": "info@lostping.de",
+            "homepage": "https://www.lostping.de",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "roundcube/plugin-installer": ">=0.1.6"
+    },
+    "extra": {
+        "roundcube": {
+            "min-version": "1.4.0"
+        }
+    }
+}
